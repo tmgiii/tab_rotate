@@ -1,0 +1,19 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": true,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "https://dashboards.tg3solutions.com/v/p4HqgzwIuUTV",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://core1-east.atscall.me/analytics/23",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 60
+    }
+  ]
+}
