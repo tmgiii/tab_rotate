@@ -1,6 +1,7 @@
-//JSON file for use on office dashboard monitors at F&W Pest Control
-//Makes sure to commit any changes and get the new link by selecting the RAW button.
-//Updated 10/13/2021 TG
+
+// JSON file for use on office dashboard monitors at F&W Pest Control
+// Makes sure to commit any changes and get the new link by selecting the RAW button.
+// Updated 10/13/2021 TG
 
 {
   "settingsReloadIntervalMinutes": 1,
