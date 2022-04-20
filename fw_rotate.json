@@ -15,5 +15,10 @@
       "duration": 15,
       "tabReloadIntervalSeconds": 60
     }
+    {
+      "url": "https://app.calltrackingmetrics.com/agents/activity?team_id=4899&sort=missed_dials&order=desc&range=today",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 60
+    }
       ]
 }
