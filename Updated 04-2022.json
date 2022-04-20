@@ -6,17 +6,17 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
+      "url": "https://app.calltrackingmetrics.com/realtime/agents?interval=today",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.patreon.com/kevdev",
+      "url": "https://dashboards.tg3solutions.com/v/p4HqgzwIuUTV",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      "url": "https://app.calltrackingmetrics.com/agents/activity?team_id=4899&sort=missed_dials&order=desc&range=today",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     }
